@@ -1,6 +1,4 @@
-### About Me:
-
-Hi 👋
+### Hi 👋
 
 ### I'm Shalev, a dedicated software engineer with a passion for:
 
